@@ -1,4 +1,4 @@
-Olá! Meu nome é Bruno, e sou um apaixonado estudante de programação em busca de desafios emocionantes e oportunidades de aprendizado contínuo.
+##Olá! Meu nome é Bruno, e sou um apaixonado estudante de programação em busca de desafios emocionantes e oportunidades de aprendizado contínuo.
 
 Desde que mergulhei no mundo da programação, descobri que a tecnologia é a linguagem do futuro. Estou constantemente fascinado pela capacidade da programação de transformar ideias abstratas em soluções tangíveis que melhoram a vida das pessoas e otimizam processos..
 
