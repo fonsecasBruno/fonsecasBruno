@@ -1,8 +1,6 @@
-# Olá! Eu sou Bruno😁
+Olá! Meu nome é Bruno, e sou um apaixonado estudante de programação em busca de desafios emocionantes e oportunidades de aprendizado contínuo.
 
-### Olá, me chamo Bruno Fonseca e tenho 19 anos!
-
-Sou estudante de programação, cursando em uma faculdade de Análise e desenvolvimento de sistemas no IESB, estudando por diversos cursos a mais. Apaixonado por tecnologia tentando ser um desenvolvedor Front-End melhor.
+Desde que mergulhei no mundo da programação, descobri que a tecnologia é a linguagem do futuro. Estou constantemente fascinado pela capacidade da programação de transformar ideias abstratas em soluções tangíveis que melhoram a vida das pessoas e otimizam processos..
 
 <br/>[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-fonseca-092b19234/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunoufz/)
